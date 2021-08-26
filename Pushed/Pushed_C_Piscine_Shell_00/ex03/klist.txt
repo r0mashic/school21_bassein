@@ -1,0 +1,5 @@
+Credentials cache: API:16580
+        Principal: balysane@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Aug  2 20:51:43 2021  Aug  3 06:51:35 2021  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
